@@ -1,0 +1,13 @@
+.display {
+  border: 1px solid;
+  max-width: 403px;
+  height: 150px;
+  margin: 0 auto;
+  color: white;
+  background-color: black;
+  font-size: 50px;
+  text-align: end;
+}
+p {
+  margin: 73px 10px 0 0;
+}

@@ -1,0 +1,18 @@
+.container {
+  max-width: 100px;
+  font-size: 33px;
+}
+button {
+  width: 100px;
+  height: 100px;
+  background-color: rgb(214, 214, 214);
+  color: black;
+  font-weight: lighter;
+}
+.zero {
+  width: 200px;
+  height: 100px;
+}
+.operator {
+  background-color: rgb(252, 180, 46);
+}
